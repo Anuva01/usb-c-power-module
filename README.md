@@ -24,11 +24,7 @@ A compact, open-source power delivery board that regulates USB-C input into clea
 
 ## 📷 Visuals
 
-> _Add a 3D board render or top-down screenshot here (KiCad → View → 3D Viewer → Export as PNG)._
-
-```markdown
 ![USB-C Power Module 3D Render](docs/images/3d-view.png)
-```
 
 ## Getting Started
 
